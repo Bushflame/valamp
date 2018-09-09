@@ -1,0 +1,13 @@
+{
+  "name": "valamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "stylus": "stylus --compress -u nib -u rupture -w main.styl -o main.css",
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
